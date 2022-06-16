@@ -1,0 +1,35 @@
+[
+    
+    {
+      "id": 1,
+      "name": "Kodlama çalış.",
+      "isDone": true
+    },
+    {
+      "id": 2,
+      "name": "Kitaplık düzenle.",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Yemek yap.",
+      "isDone": true
+    },
+    {
+      "id": 4,
+      "name": "Kargoya git.",
+      "isDone": true
+    },
+  
+    {
+      "id":5,
+      "name": "Yürüyüş yap",
+      "isDone": false
+    },
+    {
+      "id": 6,
+      "name": "Proje raporunu çıkar.",
+      "isDone": false
+    }
+
+  ]
