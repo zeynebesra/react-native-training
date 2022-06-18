@@ -1,11 +1,10 @@
-# Sample Snack app
+# TodoList
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+Bir todo uygulamasına ihtiyaç var. Kullanıcıdan input'u yakalayıp tasarımdaki gibi fonksiyonelliği kurman gerek.
+Todo'lara basıldığında tasarımda gördüğün gibi üzerinin çizilip stilinin değişmesi lazım.
+Yukarıda görünen todo sayısı sadece aktif kalan todoları belirtmeli.
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
-
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
-
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+----------------------------------------------------------------------------------
+ ![1](https://user-images.githubusercontent.com/75810064/174073487-341f0864-584c-4683-85e3-c561c2bfa3fe.png)
+![2](https://user-images.githubusercontent.com/75810064/174073501-a376fe72-9eb6-4748-bbae-5fc8984506e1.png)
